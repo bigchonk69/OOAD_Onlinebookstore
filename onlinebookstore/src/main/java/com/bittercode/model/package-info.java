@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * 
+ *
+ */
+package com.bittercode.model;
